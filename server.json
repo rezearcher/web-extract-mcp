@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.rezearcher/web-extract-mcp",
   "title": "Web Extract MCP Server",
-  "description": "Page change monitoring, sitemap discovery, prompt-injection screening, clean markdown. Free previews.",
+  "description": "Page change monitoring, sitemap discovery, prompt-injection screening, clean markdown. Free preview.",
   "version": "0.1.1",
   "websiteUrl": "https://github.com/rezearcher/web-extract-mcp",
   "repository": {
